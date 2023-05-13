@@ -14,9 +14,9 @@
                 Console.WriteLine(data.typesOfStocks[i].nofshare);
                 Console.WriteLine(data.typesOfStocks[i].price);
                 Console.WriteLine("=========================");
-              //  Console.WriteLine("============UC2=============");
-               // int invetoryprice = data.typesOfStocks[i].nofshare * data.typesOfStocks[i].price;
-               // Console.WriteLine("The stock {0} has price of {1:C} and a quantity of {2} And the Total Amount is  {3}.", data.typesOfStocks[i].name, data.typesOfStocks[i].price, data.typesOfStocks[i].nofshare, invetoryprice);
+               Console.WriteLine("============UC2=============");
+                int invetoryprice = data.typesOfStocks[i].nofshare * data.typesOfStocks[i].price;
+                Console.WriteLine("The stock {0} has price of {1:C} and a quantity of {2} And the Total Amount is  {3}.", data.typesOfStocks[i].name, data.typesOfStocks[i].price, data.typesOfStocks[i].nofshare, invetoryprice);
 
             }
         }
