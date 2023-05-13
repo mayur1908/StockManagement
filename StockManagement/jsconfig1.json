@@ -1,0 +1,29 @@
+{
+  "TypesOfStocks": [
+    {
+      "name": "MRF",
+      "nofshare": 3,
+      "price": 85000
+    },
+    {
+      "name": "Adani Green",
+      "nofshare": 10,
+      "price": 1200
+    },
+    {
+      "name": "Zomato",
+      "nofshare": 165,
+      "price": 65
+    },
+    {
+      "name": "Adani Energy",
+      "nofshare": 165,
+      "price": 65
+    },
+    {
+      "name": "Wipro",
+      "nofshare": 165,
+      "price": 65
+    }
+  ]
+}
